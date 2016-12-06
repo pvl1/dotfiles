@@ -5,6 +5,7 @@
 alias ls="ls --color -F"
 alias ll="ls --color -lh"
 alias grep="grep --color=always"
+alias less="/usr/share/vim/vim80/macros/less.sh"
 
 export GREP_COLOR='1;33' #make results yellow
 
