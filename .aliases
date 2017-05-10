@@ -1,1 +1,2 @@
 alias ranger='ranger --choosedir=$HOME/rangerdir; LASTDIR=`cat $HOME/rangerdir`; cd "$LASTDIR"'
+alias less='/usr/share/vim/vim80/macros/less.sh'
